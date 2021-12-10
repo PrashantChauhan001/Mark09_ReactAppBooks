@@ -55,7 +55,7 @@ const App = () => {
         {books[category].map((book) => (
           <div
             style={{
-              border: "2px solid black",
+              border: "1.5px solid black",
               margin: "10px 0",
               padding: "5px 20px",
               borderRadius: "10px"
